@@ -9,8 +9,6 @@ Add, display, and search books
 
 Search by title or ID
 
-Save data to a file (library.txt)
-
 Simple and beginner-friendly structure
 
 🧩 Concepts Used
